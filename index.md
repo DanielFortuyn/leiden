@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+## Some tips for fun places in Leiden
+As an Airbnb host it is nice to share some places we like to visit in Leiden. What I have compiled so far is a list of activities, bars, restaurants and events we can recommend as citizens.
 
-You can use the [editor on GitHub](https://github.com/DanielFortuyn/leiden/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Bars
+So, first things first, what are some nice bars to visit in Leiden:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### De Bonte Koe
+Traditional place which is a well known place in Leiden. We think it is absolutly worth the visit. It is primarily a good place to visit if you just want to have a drink.
 
-### Markdown
+#### De Spiegels
+Nice Jazzy cafe with live music from time to time. It has quite the international crowd and is recommended by us.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### De Uyl
+Nice café with a twenty five plus public, great place to experience some typical night out for dutch people.
 
-```markdown
-Syntax highlighted code block
+### Restaurants
+If you do not want to use our *old* kitchen we can recommend some restaurants.
 
-# Header 1
-## Header 2
-### Header 3
+#### Bhudda's 
+As the name suggests it is a thai food place, which we really like. If you want thai takeaway we can recommend tappa thai in the Steenstraat.
 
-- Bulleted
-- List
+#### In den doofpot
+If you are looking for a fancy place to have a great dining experience this place comes in highly recommended.
 
-1. Numbered
-2. List
+### Breakfast & coffee
+One of the things we really like to do is to go out for breakfast. So far we have tried two places because we absolutely enjoy our time there.
 
-**Bold** and _Italic_ and `Code` text
+#### Lot & De Walvis
+We like the sunday recovery breakfast. We can truly recommend it, but from time to time it can be crowded and sometimes there are some children as well.
 
-[Link](url) and ![Image](src)
-```
+#### Van der Leur
+Great coffee and a nice plate for breakfast aswell. If you go there you will probably take more than one cup of coffee. 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Things to do
 
-### Jekyll Themes
+#### Musea
+Leiden is literally packed with musea so do not miss the opportunity to visit the natural history, the general history or the cultural history musea. The last two we can personally recommend.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DanielFortuyn/leiden/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#### Daytrips - Rotterdam
+Instead of going to Amsterdam visit Rotterdam for a change. It was european cultural city a couple of years ago and we really enjoy goign there. 
