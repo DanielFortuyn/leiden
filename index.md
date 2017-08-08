@@ -52,7 +52,7 @@ Leiden has many 'hofjes' which you can visit walking through the city. A 'hofje'
 Instead of going to Amsterdam visit Rotterdam for a change. It was european cultural city a couple of years ago and we really enjoy going there.
 
 ### Terrassen (bonus)
-If the wheater is good. Do what all dutch people to, go into the city and sit outside to have a drink. It is the dutch equivalent of a beergarden. We can recommend the following locations.
+If the wheater is good. Do what all dutch people to, go into the city and sit outside to have a drink. It is the dutch equivalent of a beergarden. We can recommend the following locations. If you are going, please do not forget to order the typical dutch **BITTERBALLEN** it is a treat and should not be missed!!
 
 #### Annies & De Nieuwe Rijn
 Along de nieuwe rijn there are many terraces, it is the go-to location for dutch people. definetly worth the visit. Top of the bill however is the terrace of *annies verjaardag*. It is a floating terrace at the conjunction of both parts of the old river. It is not specifically good, but a nice place to visit. Watch out, if the sun is out, it is probably full.
@@ -61,6 +61,6 @@ Along de nieuwe rijn there are many terraces, it is the go-to location for dutch
 A bit out of the way, but has a great location where there are usually some spots left. On the route there you probably pass 't Keizertje which is another nice place.
 
 #### Lot & De Walvis
-Great place to have breakfast, but drinks can totally work aswell. 
+Great place to have breakfast, but drinks can totally work as well. 
 
 
