@@ -8,7 +8,7 @@ So, first things first, what are some nice bars to visit in Leiden:
 #### De Bonte Koe
 Traditional place which is a well known place in Leiden. We think it is absolutly worth the visit. It is primarily a good place to visit if you just want to have a drink.
 
-#### De Spiegels
+#### De Twee Spiegels
 Nice Jazzy cafe with live music from time to time. It has quite the international crowd and is recommended by us.
 
 #### De Uyl
