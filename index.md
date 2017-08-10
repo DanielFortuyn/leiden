@@ -1,5 +1,5 @@
 ## Some tips for fun places in Leiden
-As an Airbnb host it is nice to share some places we like to visit in Leiden. What I have compiled so far is a list of activities, bars, restaurants and events we can recommend as citizens.
+As an Airbnb host it is nice to share some places we like to visit in Leiden. What I have compiled so far is a list of activities, bars, restaurants and events we can recommend as citizens. Oh and by the way, these are all places in the city center. From our place the furtest is about a ten minute walk away.
 
 ### Bars
 ---
@@ -54,7 +54,7 @@ Instead of going to Amsterdam visit Rotterdam for a change. It was european cult
 
 ### Terrassen (bonus)
 ---
-If the wheater is good. Do what all dutch people to, go into the city and sit outside to have a drink. It is the dutch equivalent of a beergarden. We can recommend the following locations. If you are going, please do not forget to order the typical dutch **BITTERBALLEN** it is a treat and should not be missed!!
+If the wheater is good. Do what all dutch people to, go into the city and sit outside to have a drink. It is the dutch equivalent of a beergarden. We can recommend the following locations. If you are going, please do not forget to order the typical dutch **bitterballen** it is a treat and should not be missed!!
 
 #### Annies & De Nieuwe Rijn
 Along de nieuwe rijn there are many terraces, it is the go-to location for dutch people. definetly worth the visit. Top of the bill however is the terrace of *annies verjaardag*. It is a floating terrace at the conjunction of both parts of the old river. It is not specifically good, but a nice place to visit. Watch out, if the sun is out, it is probably full.
