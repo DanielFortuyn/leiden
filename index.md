@@ -66,3 +66,13 @@ A bit out of the way, but has a great location where there are usually some spot
 Great place to have breakfast, but drinks can totally work as well. 
 
 
+### Treats
+---
+So some of our guests have been asking about typical dutch food. We have found it quite difficult to recommend things to people. Of course cheese comes to mind, but most people already know about this. So what follows here is a list of things you can easily find and might be worth the try while in Leiden.
+
+#### Stroopwafels
+These are typical dutch cookies. Most people seem to love them, try to grab a fresh one at the saturday or wednesday markets in the city.
+
+#### Kroketten
+Basically the go to options for a full dutch lunch and almost available everywhere. Minor caution, unhealthy!
+
