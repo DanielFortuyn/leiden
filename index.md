@@ -50,5 +50,5 @@
 <p>These are typical dutch cookies. Most people seem to love them, try to grab a fresh one at the saturday or wednesday markets in the city.</p>
 <h4><a id="Kroketten_75"></a>Kroketten</h4>
 <p>Basically the go to options for a full dutch lunch and almost available everywhere. Minor caution, unhealthy!</p>
-<h4><a id="Hutspot_78"</h4>
+<h4><a id="Hutspot_78"></a>Hutspot</h4>
 <p>If by the off chance you happen to be in Leiden by the third of october (or you stumble accross it at some strange place) please (ask) to try it. This is a very typical dish, allegedly originating from spain, but currently a local favorite. Warning it consists of mashed potatoes, onions and carrot. Usually with stew meat.</p>
