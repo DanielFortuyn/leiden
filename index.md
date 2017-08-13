@@ -22,7 +22,7 @@
 <p>One of the things we really like to do is to go out for breakfast. So far we have tried two places because we absolutely enjoy our time there.</p>
 <h4><a id="Lot__De_Walvis_31"></a>Lot &amp; De Walvis <a href="https://goo.gl/maps/e8tMxMDcWcC2"><i class="fa fa-map-marker" aria-hidden="true"></i></a></h4>
 <p>We like the sunday recovery breakfast. We can truly recommend it, but from time to time it can be crowded and sometimes there are some children as well. The location in the harbour is very nice.</p>
-<h4><a id="Van_der_Leur_34"></a>Van der Leur</h4>
+<h4><a id="Van_der_Leur_34"></a>Van der Leu  <a href="https://goo.gl/maps/8wLKhutEHWQ2r"><i class="fa fa-map-marker" aria-hidden="true"></i></a></h4>
 <p>Great coffee and a nice plate for breakfast aswell. If you go there you will probably take more than one cup of coffee. It is about halfway in the breestraat, near the magnificent city hall.</p>
 <h3><a id="Things_to_do_37"></a>Things to do</h3>
 <hr>
