@@ -13,7 +13,7 @@
 <h3><a id="Restaurants__Takeaway_17"></a>Restaurants &amp; Takeaway</h3>
 <hr>
 <p>If you do not want to use our <em>old</em> kitchen we can recommend some restaurants.</p>
-<h4><a id="Bhuddas_21"></a>Bhudda’s</h4>
+<h4><a id="Bhuddas_21"></a>Bhudda’s <a href="https://goo.gl/maps/TDHJ4mZxQ332"><i class="fa fa-map-marker" aria-hidden="true"></i></a></h4>
 <p>As the name suggests it is a thai food place, which we really like. If you want thai takeaway we can recommend tappa thai in the Steenstraat.</p>
 <h4><a id="In_den_doofpot_24"></a>In den doofpot</h4>
 <p>If you are looking for a fancy place to have a great dining experience this place comes in highly recommended.</p>
