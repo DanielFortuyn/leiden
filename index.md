@@ -15,12 +15,12 @@
 <p>If you do not want to use our <em>old</em> kitchen we can recommend some restaurants.</p>
 <h4><a id="Bhuddas_21"></a>Bhudda’s <a href="https://goo.gl/maps/TDHJ4mZxQ332"><i class="fa fa-map-marker" aria-hidden="true"></i></a></h4>
 <p>As the name suggests it is a thai food place, which we really like. If you want thai takeaway we can recommend tappa thai in the Steenstraat.</p>
-<h4><a id="In_den_doofpot_24"></a>In den doofpot</h4>
+<h4><a id="In_den_doofpot_24"></a>In den doofpot  <a href="https://goo.gl/maps/2M8sSTBKSx92"><i class="fa fa-map-marker" aria-hidden="true"></i></a></h4>
 <p>If you are looking for a fancy place to have a great dining experience this place comes in highly recommended.</p>
 <h3><a id="Breakfast__coffee_27"></a>Breakfast &amp; coffee</h3>
 <hr>
 <p>One of the things we really like to do is to go out for breakfast. So far we have tried two places because we absolutely enjoy our time there.</p>
-<h4><a id="Lot__De_Walvis_31"></a>Lot &amp; De Walvis</h4>
+<h4><a id="Lot__De_Walvis_31"></a>Lot &amp; De Walvis <a href="https://goo.gl/maps/e8tMxMDcWcC2"><i class="fa fa-map-marker" aria-hidden="true"></i></a></h4>
 <p>We like the sunday recovery breakfast. We can truly recommend it, but from time to time it can be crowded and sometimes there are some children as well. The location in the harbour is very nice.</p>
 <h4><a id="Van_der_Leur_34"></a>Van der Leur</h4>
 <p>Great coffee and a nice plate for breakfast aswell. If you go there you will probably take more than one cup of coffee. It is about halfway in the breestraat, near the magnificent city hall.</p>
@@ -38,11 +38,11 @@
 <h3><a id="Terrassen_bonus_54"></a>Terrassen (bonus)</h3>
 <hr>
 <p>If the wheater is good. Do what all dutch people to, go into the city and sit outside to have a drink. It is the dutch equivalent of a beergarden. We can recommend the following locations. If you are going, please do not forget to order the typical dutch <strong>bitterballen</strong> it is a treat and should not be missed!!</p>
-<h4><a id="Annies__De_Nieuwe_Rijn_58"></a>Annies &amp; De Nieuwe Rijn</h4>
+<h4><a id="Annies__De_Nieuwe_Rijn_58"></a>Annies &amp; De Nieuwe Rijn <a href="https://goo.gl/maps/PccxKULh6LJ2"><i class="fa fa-map-marker" aria-hidden="true"></i></a></h4>
 <p>Along de nieuwe rijn there are many terraces, it is the go-to location for dutch people. definetly worth the visit. Top of the bill however is the terrace of <em>annies verjaardag</em>. It is a floating terrace at the conjunction of both parts of the old river. It is not specifically good, but a nice place to visit. Watch out, if the sun is out, it is probably full.</p>
 <h4><a id="Babbels_61"></a>Babbels</h4>
 <p>A bit out of the way, but has a great location where there are usually some spots left. On the route there you probably pass 't Keizertje which is another nice place.</p>
-<h4><a id="Lot__De_Walvis_64"></a>Lot &amp; De Walvis</h4>
+<h4><a id="Lot__De_Walvis_64"></a>Lot &amp; De Walvis  <a href="https://goo.gl/maps/e8tMxMDcWcC2"><i class="fa fa-map-marker" aria-hidden="true"></i></a></h4>
 <p>Great place to have breakfast, but drinks can totally work as well.</p>
 <h3><a id="Treats_68"></a>Treats</h3>
 <hr>
