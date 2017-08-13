@@ -15,14 +15,14 @@
 <p>If you do not want to use our <em>old</em> kitchen we can recommend some restaurants.</p>
 <h4><a id="Bhuddas_21"></a>Bhudda’s <a href="https://goo.gl/maps/TDHJ4mZxQ332"><i class="fa fa-map-marker" aria-hidden="true"></i></a></h4>
 <p>As the name suggests it is a thai food place, which we really like. If you want thai takeaway we can recommend tappa thai in the Steenstraat.</p>
-<h4><a id="In_den_doofpot_24"></a>In den doofpot  <a href="https://goo.gl/maps/2M8sSTBKSx92"><i class="fa fa-map-marker" aria-hidden="true"></i></a></h4>
+<h4><a id="In_den_doofpot_24"></a>In den doofpot <a href="https://goo.gl/maps/2M8sSTBKSx92"><i class="fa fa-map-marker" aria-hidden="true"></i></a></h4>
 <p>If you are looking for a fancy place to have a great dining experience this place comes in highly recommended.</p>
 <h3><a id="Breakfast__coffee_27"></a>Breakfast &amp; coffee</h3>
 <hr>
 <p>One of the things we really like to do is to go out for breakfast. So far we have tried two places because we absolutely enjoy our time there.</p>
 <h4><a id="Lot__De_Walvis_31"></a>Lot &amp; De Walvis <a href="https://goo.gl/maps/e8tMxMDcWcC2"><i class="fa fa-map-marker" aria-hidden="true"></i></a></h4>
 <p>We like the sunday recovery breakfast. We can truly recommend it, but from time to time it can be crowded and sometimes there are some children as well. The location in the harbour is very nice.</p>
-<h4><a id="Van_der_Leur_34"></a>Van der Leu  <a href="https://goo.gl/maps/8wLKhutEHWQ2r"><i class="fa fa-map-marker" aria-hidden="true"></i></a></h4>
+<h4><a id="Van_der_Leur_34"></a>Van de Leur <a href="https://goo.gl/maps/8wLKhutEHWQ2r"><i class="fa fa-map-marker" aria-hidden="true"></i></a></h4>
 <p>Great coffee and a nice plate for breakfast aswell. If you go there you will probably take more than one cup of coffee. It is about halfway in the breestraat, near the magnificent city hall.</p>
 <h3><a id="Things_to_do_37"></a>Things to do</h3>
 <hr>
