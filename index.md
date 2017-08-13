@@ -3,7 +3,7 @@
 <h3><a id="Bars_3"></a>Bars</h3>
 <hr>
 <p>So, first things first, what are some nice bars to visit in Leiden:</p>
-<h4><a id="De_Bonte_Koe_7"></a>De Bonte Koe<a href="https://goo.gl/maps/Q57noMD1J5S2"><i class="fa fa-map-marker" aria-hidden="true"></i></a></h4>
+<h4><a id="De_Bonte_Koe_7"></a>De Bonte Koe <a href="https://goo.gl/maps/Q57noMD1J5S2"><i class="fa fa-map-marker" aria-hidden="true"></i></a></h4>
 <p>Traditional place which is a well known place in Leiden. We think it is absolutly worth the visit. It is primarily a good place to visit if you just want to have a drink.</p>
 <h4><a id="De_Twee_Spiegels_10"></a>De Twee Spiegels</h4>
 <p>Nice Jazzy cafe with live music from time to time. It has quite the international crowd and is recommended by us.</p>
