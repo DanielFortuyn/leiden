@@ -1,7 +1,3 @@
----
-title: My page
-layout: default.html
----
 <h2><a id="Some_tips_for_fun_places_in_Leiden_0"></a>Some tips for fun places in Leiden</h2>
 <p>As an Airbnb host it is nice to share some places we like to visit in Leiden. What I have compiled so far is a list of activities, bars, restaurants and events we can recommend as citizens. Oh and by the way, these are all places in the city center. From our place the furtest is about a ten minute walk away.</p>
 <h3><a id="Bars_3"></a>Bars</h3>
