@@ -40,7 +40,7 @@
 <p>If the wheater is good. Do what all dutch people to, go into the city and sit outside to have a drink. It is the dutch equivalent of a beergarden. We can recommend the following locations. If you are going, please do not forget to order the typical dutch <strong>bitterballen</strong> it is a treat and should not be missed!!</p>
 <h4><a id="Annies__De_Nieuwe_Rijn_58"></a>Annies &amp; De Nieuwe Rijn <a href="https://goo.gl/maps/PccxKULh6LJ2"><i class="fa fa-map-marker" aria-hidden="true"></i></a></h4>
 <p>Along de nieuwe rijn there are many terraces, it is the go-to location for dutch people. definetly worth the visit. Top of the bill however is the terrace of <em>annies verjaardag</em>. It is a floating terrace at the conjunction of both parts of the old river. It is not specifically good, but a nice place to visit. Watch out, if the sun is out, it is probably full.</p>
-<h4><a id="Babbels_61"></a>Babbels</h4>
+<h4><a id="Babbels_61"></a>Babbels <a href="https://goo.gl/maps/WTscKCCYwP92"><i class="fa fa-map-marker" aria-hidden="true"></i></a></h4>
 <p>A bit out of the way, but has a great location where there are usually some spots left. On the route there you probably pass 't Keizertje which is another nice place.</p>
 <h4><a id="Lot__De_Walvis_64"></a>Lot &amp; De Walvis  <a href="https://goo.gl/maps/e8tMxMDcWcC2"><i class="fa fa-map-marker" aria-hidden="true"></i></a></h4>
 <p>Great place to have breakfast, but drinks can totally work as well.</p>
