@@ -7,8 +7,7 @@
 <p>Traditional place which is a well known place in Leiden. We think it is absolutly worth the visit. It is primarily a good place to visit if you just want to have a drink.</p>
 <h4><a id="De_Twee_Spiegels_10"></a>De Twee Spiegels <a href="https://goo.gl/maps/1yHPdubiKjP2"><i class="fa fa-map-marker" aria-hidden="true"></i></a></h4>
 <p>Nice Jazzy cafe with live music from time to time. It has quite the international crowd and is recommended by us.</p>
-<h4><a id="De_Uyl_13"></a>De Uyl 
-<a href="https://goo.gl/maps/eEuddCyKwyq"><i class="fa fa-map-marker" aria-hidden="true"></i></a></h4>
+<h4><a id="De_Uyl_13"></a>De Uyl<a href="https://goo.gl/maps/eEuddCyKwyq"><i class="fa fa-map-marker" aria-hidden="true"></i></a></h4>
 <p>Nice bar with a twenty five plus public, great place to experience some typical night out for dutch people.</p>
 <h3><a id="Restaurants__Takeaway_17"></a>Restaurants &amp; Takeaway</h3>
 <hr>
@@ -51,3 +50,5 @@
 <p>These are typical dutch cookies. Most people seem to love them, try to grab a fresh one at the saturday or wednesday markets in the city.</p>
 <h4><a id="Kroketten_75"></a>Kroketten</h4>
 <p>Basically the go to options for a full dutch lunch and almost available everywhere. Minor caution, unhealthy!</p>
+<h4><a id="Hutspot_78"</h4>
+<p>If by the off chance you happen to be in Leiden by the third of october (or you stumble accross it at some strange place) please (ask) to try it. This is a very typical dish, allegedly originating from spain, but currently a local favorite. Warning it consists of mashed potatoes, onions and carrot. Usually with stew meat.</p>
