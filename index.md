@@ -1,6 +1,5 @@
 ---
 title: My page
-permalink: mypageurl.html
 layout: default.html
 ---
 <h2><a id="Some_tips_for_fun_places_in_Leiden_0"></a>Some tips for fun places in Leiden</h2>
