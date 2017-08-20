@@ -1,0 +1,34 @@
+{
+  "name": "leiden",
+  "version": "1.0.0",
+  "description": "Mini tourist guide for Leiden",
+  "main": "index.js",
+  "dependencies": {
+    "contentful-data": "^1.2.0",
+    "gulp-twig": "^0.7.0",
+    "gulp-watch": "^4.3.11"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.18.13",
+    "gulp": "^3.9.1",
+    "gulp-util": "^3.0.8",
+    "gulp-watch": "^4.3.11"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielFortuyn/leiden.git"
+  },
+  "keywords": [
+    "tourism",
+    "experiment"
+  ],
+  "author": "Daniel Fortuyn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanielFortuyn/leiden/issues"
+  },
+  "homepage": "https://github.com/DanielFortuyn/leiden#readme"
+}
