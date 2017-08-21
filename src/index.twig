@@ -7,6 +7,7 @@
         <p>{{ page.fields.description }}</p>
         {% for list in page.fields.content %}
             <h3>{{ list.fields.title }}</h3>
+            <hr size="1" />
             <p>{{ list.fields.description }}</p>
             {% for item in list.fields.content %}
                 <h4>{{item.fields.title}}
@@ -15,7 +16,6 @@
                     {% endif %}
                 </h4>
                 <p>{{item.fields.content}}</p>
-
             {% endfor %}
         {% endfor %}
     {% endfor %}
